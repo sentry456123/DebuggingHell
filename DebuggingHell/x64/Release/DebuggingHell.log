@@ -1,0 +1,16 @@
+﻿  camera.cpp
+  fs.cpp
+  keyboard.cpp
+  main.cpp
+  mesh.cpp
+  mouse.cpp
+  shader.cpp
+  texture.cpp
+  window.cpp
+C:\Users\sentr\source\repos\DebuggingHell\DebuggingHell\window.cpp(89,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  glad.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 491 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DebuggingHell.vcxproj -> C:\Users\sentr\source\repos\DebuggingHell\x64\Release\DebuggingHell.exe
